@@ -1,0 +1,23 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023-03-06T06:17:56.997Z",
+        "line": 2,
+        "name": "Validate Search functionality",
+        "description": "\tGiven: user is in Search page\n\tWhen: user enters product\n\tAnd: Click on Search button\n\tThen: Product should be displayed",
+        "id": "search;validate-search-functionality",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": []
+      }
+    ],
+    "name": "Search",
+    "description": "",
+    "id": "search",
+    "keyword": "Feature",
+    "uri": "file:src/search.feature",
+    "tags": []
+  }
+]
